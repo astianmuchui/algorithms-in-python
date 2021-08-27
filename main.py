@@ -1,5 +1,5 @@
 """
-check to see if a string has the same number of x's and o's.
+check to see if a string has the same number of x's and o's .
 """
 word = ""
 resultX = word.find('x')
